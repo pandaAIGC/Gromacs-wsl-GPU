@@ -1,5 +1,6 @@
 # Gromacs-wsl-GPU
 Install Gromacs on WSL2 Ubuntu 24.04
+
 1.**升级 WSL 2**：在 Windows PowerShell （管理员权限）中执行
 
 ```
